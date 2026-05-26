@@ -1,5 +1,11 @@
 # 👨‍💻 About Me:
-Currently deep in the trenches of Data Structures and Algorithms. Beyond the algorithms, my expertise spans native Android development—harnessing Kotlin and Jetpack Compose—and core Computer Science fundamentals. I also love getting my hands dirty with Machine Learning, taking models all the way from raw data collection and exploratory data analysis (EDA) to hyperparameter tuning and accuracy optimization.<br><br>Let’s connect! Drop me a line at ashishchauhan.4769@gmail.com or explore my journey and technical experiences here ->
+I am Ashish Chauhan, a Computer Science & Engineering student at NIT Allahabad (MNNIT), specializing in writing code that runs fast, looks clean, and occasionally works on the first try.
+
+*   **Algorithms:** Currently deep in the trenches of Data Structures and Algorithms, constantly refining my problem-solving edge.
+*   **Android Development:** Crafting seamless native experiences using Kotlin, Jetpack Compose, and MVVVM for scalability.
+*   **Machine Learning:** Getting my hands dirty taking models all the way from raw data collection and exploratory data analysis (EDA) to hyperparameter tuning and accuracy optimization.
+  
+Let’s connect! Drop me a line at ashishchauhan.4769@gmail.com or explore my journey and technical experiences here->
 [![Resume](https://img.shields.io/badge/Resume-Success?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1CjMfH4MS1_sCAv7XEGaT9VOuhwnhkb7H/view?usp=drive_link)
 <br>
 
