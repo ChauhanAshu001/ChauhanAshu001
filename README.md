@@ -7,7 +7,7 @@ I am Ashish Chauhan, a Computer Science & Engineering student at NIT Allahabad (
   
 Let’s connect! Drop me a line at ashishchauhan.4769@gmail.com or explore my journey and technical experiences below:
 
-[![Resume](https://img.shields.io/badge/RESUME-100000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1JwnLzbnv9D6kHMdEtJtfRIUkv75o_5zd/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/RESUME-100000?style=for-for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/16Dw5AD8h1qQtsxGZqwZEXY7yFs5m9UhN/view?usp=drive_link)
 <br>
 
 ---
